@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Given\ the\ first\ line\ of\ this\ iconic\ song\:\n\ "I\ have\ a\ pen,\ I\ have\ a\ apple"\n\ This\ produces\ the\ next\ line,\ following\ this\ pattern\n\ "Uh\!\ Apple\ pen"\n\ \n
+comment1.params=str
+comment1.target=void\ ppap(java.lang.String)
+numComments=2
